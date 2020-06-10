@@ -1,2 +1,2 @@
 # RetoCSS: 
-Reto con Flexbox creando una card
+Reto de Platzi Master con Flexbox creando una card
